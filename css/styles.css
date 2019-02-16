@@ -11,10 +11,6 @@ td {
 	border: 1px #DDDDDD solid;
 }
 
-.button {
-	cursor: default;
-}
-
 #add {
 	color: #6495ED;
 	background-color: #EEEEEE;
@@ -32,7 +28,7 @@ td {
 
 #calculator {
 	text-align: center;
-	margin: 0 auto;
+	margin: 20% auto 0;
 }
 
 #display {
@@ -96,7 +92,6 @@ td {
 
 #pipe {
 	color: #A9A9A9;
-	visibility: visible;
 }
 
 #point {

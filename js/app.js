@@ -1,3 +1,5 @@
+alert("Desktop browser view is recommended");
+
 let pipe = document.getElementById("pipe");
 
 setInterval(function() {
