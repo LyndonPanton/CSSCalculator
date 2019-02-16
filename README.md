@@ -1,5 +1,5 @@
 ### How to start
-> 1. To open the game go the the project's download folder
+> 1. To view the file go the the project's download folder
 > 2. Right click on the file named _index.html_
 > 3. Go to the _open with_ option
 > 4. Chose a browser to view the page in
