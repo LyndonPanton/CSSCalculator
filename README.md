@@ -5,7 +5,7 @@
 > 4. Chose a browser to view the page in
 
 ### Requirements
-> 1. This game requires a browser
+> 1. This project requires a browser
 > 2. The browser should have Javascript available and enabled for additional effects
 
 ### Preview
